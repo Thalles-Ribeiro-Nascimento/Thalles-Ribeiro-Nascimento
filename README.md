@@ -2,7 +2,7 @@
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </head>
 
-# Olá, Devs! Eu me chamo Thalles e sejam muito bem-vindos ao meu perfil! :v:
+# Olá, Devs! Eu me chamo Thalles, sou desenvolvedor back-end e sejam muito bem-vindos ao meu perfil! :v:
 
 ![octocat-1725719597544](https://github.com/user-attachments/assets/98aef128-e684-4ba7-914c-c2dce3846c4a)
 
