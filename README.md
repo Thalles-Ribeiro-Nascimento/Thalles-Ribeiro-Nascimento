@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</head>
+
 # Olá, Devs! Eu me chamo Thalles e sejam muito bem-vindos ao meu perfil! :v:
 
 ![octocat-1725719597544](https://github.com/user-attachments/assets/98aef128-e684-4ba7-914c-c2dce3846c4a)
@@ -28,15 +32,14 @@ Estou atualmente trabalhando na Clínica Susga Medicina Diagnóstica, como Estag
 
 # :hammer: Ferramentas:
 <div>  
-  <i class="devicon-github-original colored"></i>
-  <i class="devicon-java-plain-wordmark colored"></i>
-  <i class="devicon-python-plain-wordmark colored"></i>
-  <i class="devicon-mysql-plain-wordmark colored"></i>
-  <i class="devicon-maven-plain-wordmark colored"></i>
-  <i class="devicon-linux-plain colored"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height=100px width=100px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height=100px width=100px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=100px width=100px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height=100px width=100px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height=100px width=100px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=100px width=100px />
 
 </div>
-
 
  # :mailbox_with_mail: Contatos:
 <div>
