@@ -11,7 +11,7 @@ Iniciei a graduação em Análise e Desenvolvimento de Sistemas - Faculdade Sena
 
 Atualmente, estou no 5º período da faculdade, onde irei coordenador alunos dos períodos antecessores na matéria de Projeto Integrador, sendo Scrum. Também aprimorarei os conhecimentos de MicroServices utilizando Java Spring boot e irei desenvolver projetos com IA em Python.
 
-Se você tiver alguma dúvida, sinta-se à vontade para entrar em contato aqui no LinkedIn ou pelo meu e-mail (thalles.nascimentorj@gmail.com).
+Se você tiver alguma dúvida, sinta-se à vontade para entrar em contato aqui pelo meu e-mail (thalles.nascimentorj@gmail.com).
 <!-- - [Conhecimentos Adquiridos](#soft-skills)
 - [Estilo de Vida](#estilo-de-vida)
 -->
