@@ -3,9 +3,11 @@
 ![octocat-1725719597544](https://github.com/user-attachments/assets/98aef128-e684-4ba7-914c-c2dce3846c4a)
 
 # :telescope: Sobre Mim:
-- [Estudos](#estudos)
-- [Trabalho](#trabalho)
-- [Contatos](#contatos)
+Iniciei a graduação em Análise e Desenvolvimento de Sistemas - Faculdade Senac RJ - no 1º semestre de 2023. Desde novo, fui e sou entusiasta de tecnologia, buscava notícias e revistas sobre avanços tecnológicos. Logo, percebi que esse era o meu propósito profissional. Desde então, tenho dedicado meus esforços à tornar-me um desenvolvedor back-end.
+
+Atualmente, estou no 5º período da faculdade, onde irei coordenador alunos dos períodos antecessores na matéria de Projeto Integrador, sendo Scrum. Também aprimorarei os conhecimentos de MicroServices utilizando Java Spring boot e irei desenvolver projetos com IA em Python.
+
+Se você tiver alguma dúvida, sinta-se à vontade para entrar em contato aqui no LinkedIn ou pelo meu e-mail (thalles.nascimentorj@gmail.com).
 <!-- - [Conhecimentos Adquiridos](#soft-skills)
 - [Estilo de Vida](#estilo-de-vida)
 -->
