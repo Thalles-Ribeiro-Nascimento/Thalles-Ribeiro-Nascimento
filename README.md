@@ -9,7 +9,7 @@
 # :telescope: Sobre Mim:
 Iniciei a graduação em Análise e Desenvolvimento de Sistemas - Faculdade Senac RJ - no 1º semestre de 2023. Desde novo, fui e sou entusiasta de tecnologia, buscava notícias e revistas sobre avanços tecnológicos. Logo, percebi que esse era o meu propósito profissional. Desde então, tenho dedicado meus esforços à tornar-me um desenvolvedor back-end.
 
-Atualmente, estou no 5º período da faculdade, onde irei coordenador alunos dos períodos antecessores na matéria de Projeto Integrador, sendo Scrum. Também aprimorarei os conhecimentos de MicroServices utilizando Java Spring boot e irei desenvolver projetos com IA em Python.
+No ano de 2025, conclui a graduação e fui efetivado na empresa a qual eu estagiei por 1 ano e meio. Atualmente, eu estou desempregado e a procura de uma oportunidade para mostrar as habilidades que adiquiri na empresa e na graduação.
 
 Se você tiver alguma dúvida, sinta-se à vontade para entrar em contato aqui pelo meu e-mail (thalles.nascimentorj@gmail.com).
 <!-- - [Conhecimentos Adquiridos](#soft-skills)
@@ -17,17 +17,17 @@ Se você tiver alguma dúvida, sinta-se à vontade para entrar em contato aqui p
 -->
 # :books: Estudos:
 - Vamos falar um pouco sobre o que eu tenho estudado:
-  - **Python e Java**: Linguagens Back-End que tenho mais foco; CRUD's com MySQL e SQL Server; Programação Orientada a Objeto; Fundamentos (Estruturas, tipos primitivos, funções básicas e Estrutura de Dados); Interface Gráfica com Tkinter e Swing; SpringBoot3, MicroService, JPA, API; Testes de software utilizando JUnit e Chrome Driver;
-  - **MySQL e SQL Server**: São os bancos de dados que mais tenho utilizado e que tenho mais familiaridade; Persistencia de Dados; Normalização, Relacionamentos (Modelo Relacional); Queries - Select, update, delete, create; Funções; Stored Procedure; Views; Controle de Acesso;
-  - **HTML, NodeJS, Angular, TypeScript**: São linguagem/*framework* que tenho estudado, principalmente para o desenvolvimento de projetos dentro da Faculdade;RESTFul API; Web Server;
+  - **Python e Java**: Linguagens Back-End que tenho mais foco; CRUD's com MySQL; Programação Orientada a Objeto; Fundamentos (Estruturas, tipos primitivos, funções básicas e Estrutura de Dados); Interface Gráfica com Tkinter; Spring Boot, Microsserviços, JPA/Hibernate, API Rest, aplicações Web/Web Services;
+  - **MySQL**: O bancos de dados que mais tenho utilizado e que tenho mais familiaridade; Persistencia de Dados; Normalização, Relacionamentos (Modelo Relacional); Queries - Select, update, delete, create; Funções; Stored Procedure; Views; Controle de Acesso;
+  - **HTML, NodeJS, Angular, Javascript, Express**: São linguagem/*framework* que tenho estudado, principalmente para o desenvolvimento de projetos dentro da Faculdade;RESTFul API; Web Server;
 
 # :construction_worker: Trabalho:
-Estou atualmente trabalhando na Clínica Susga Medicina Diagnóstica, como Estagiário na área de Tecnologia da Informação. Neste contexto, exerço funções voltadas a infraestrutura de TI, como Rotinas de Backup, configuração de servidor e redes, assistência a falha nas máquinas, clonar, formatar e montar discos, "Formatar windows", etc. Essa oportunidade de estágio em Infra, julgo ser uma boa maneira de adentrar na área, pois, há conhecimento que muitos programadores ignoram, como configurações de servidor e redes que são tão importantes quanto a programação. Rotinas de backup e saber mexer em Linux e Windows, tanto utilizando as interfaces gráficas quanto as CLI's (Terminal e Prompt) também são ferramentas úteis e que tenho conhecido com esse trabalho.
+Eu trabalhei na Clínica Susga Medicina Diagnóstica, como Estagiário e Auxiliar de TI. Neste contexto, exerço funções voltadas a infraestrutura de TI, como Rotinas de Backup, configuração de servidor e redes, assistência aos colaboradores, clonar, formatar e montar discos, "Formatar windows", etc. Essa oportunidade de estágio e posteriormente trabalhar efetivado em Infra, julgo ser uma boa maneira de adentrar na área, pois, há conhecimento que muitos programadores ignoram, como configurações de servidor e redes que são tão importantes quanto a programação. Rotinas de backup e saber mexer em Linux e Windows, tanto utilizando as interfaces gráficas quanto as CLI's (Terminal e Prompt) também são ferramentas úteis e que aprendi muito com o trabalho.
 
 # :computer: Experiências:
-  - **Sistemas Operacionais**: Usuário de Linux e utilizo Windows na Clínica, onde trabalho. Tenho bastante a aprender, mas adquiri e sigo adquirindo muita experiência utilizando Linux em casa e lidando com Windows no trabalho;
-  - **Python**: Realizar CRUD's em Python com MySQL; Programação Orientada a Objeto; Fundamentos (Estruturas, tipos primitivos, funções básicas e Estrutura de Dados); Interface Gráfica com Tkinter;
-  - **Java**: Realizar CRUD's em Java com MySQL e Hibernate/JPA; Fundamentos; Interface Gráfica com Swing; MicroServices; Spring Boot; JUnit; Maven;
+  - **Sistemas Operacionais**: Utilizo Linux no meu computador pessoal e trabalhei com Windows no meu antigo emprego. Tenho bastante a aprender, mas adquiri e sigo adquirindo muita experiência utilizando Linux em casa e lidando com Windows no trabalho;
+  - **Python**: Realizar CRUD's em Python com MySQL; Programação Orientada a Objeto; Fundamentos (Estruturas, tipos primitivos, funções básicas e Estrutura de Dados); Interface Gráfica com Tkinter; Biblioteca OS
+  - **Java**: Realizar CRUD's em Java com MySQL e Hibernate/JPA; Fundamentos (Estruturas, tipos primitivos, funções básicas e Estrutura de Dados); Microsserviços; Spring Boot; JUnit; Maven;
   - **Backups e ShellScripts**: Realizar backups e comandos em Terminais; Comandos utilizados: chmod, chown, sudo, vi, vim, cat, touch, ping, if(p)config, etc;
 
 # :hammer: Ferramentas:
