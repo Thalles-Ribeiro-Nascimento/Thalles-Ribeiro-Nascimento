@@ -2,12 +2,12 @@
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </head>
 
-# Olá, Devs! Eu me chamo Thalles, sou desenvolvedor backend e sejam muito bem-vindos ao meu perfil! :v:
+# Olá, Devs! Eu me chamo Thalles Nascimento, sou desenvolvedor backend e sejam muito bem-vindos ao meu perfil! :v:
 
 <!--![octocat-1725719597544](https://github.com/user-attachments/assets/98aef128-e684-4ba7-914c-c2dce3846c4a) -->
 
 # :telescope: Sobre Mim:
-Desde novo, fui e sou entusiasta de tecnologia, buscava notícias e revistas sobre avanços tecnológicos. Logo, percebi que esse era o meu propósito profissional. Desde então, tenho dedicado meus esforços à tornar-me um desenvolvedor back-end.  Sou graduado em Análise e Desenvolvimento de Sistemas pelo Senac RJ e conto com mais de 2 anos de experiência prática no setor de TI.
+Desde novo, sou entusiasta de tecnologia, buscava notícias e revistas sobre avanços tecnológicos. Logo, percebi que esse era o meu propósito profissional. Desde então, tenho dedicado meus esforços à tornar-me um desenvolvedor back-end.  Sou graduado em Análise e Desenvolvimento de Sistemas pelo Senac RJ e conto com mais de 2 anos de experiência prática no setor de TI.
 
 Estou sempre aberto a novas conexões, desafios e debates sobre arquitetura backend. Sinta-se à vontade para se conectar ou entrar em contato! (thalles.nascimentorj@gmail.com).
 <!-- - [Conhecimentos Adquiridos](#soft-skills)
@@ -43,5 +43,5 @@ Eu trabalhei na Clínica Susga Medicina Diagnóstica, como Estagiário e efetiva
 <div>
   <a href="https://www.linkedin.com/in/thallesnascimento/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:thalles.nascimentorj@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/thalles.nascimento07/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/othallesnascimento/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
