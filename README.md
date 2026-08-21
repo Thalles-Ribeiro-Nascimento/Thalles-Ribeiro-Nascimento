@@ -1,47 +1,36 @@
-<head>
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-</head>
-
 # Olá, Devs! Eu me chamo Thalles Nascimento, sou desenvolvedor backend e sejam muito bem-vindos ao meu perfil! :v:
 
-<!--![octocat-1725719597544](https://github.com/user-attachments/assets/98aef128-e684-4ba7-914c-c2dce3846c4a) -->
+# 🔭 Sobre Mim
+Graduado em Análise e Desenvolvimento de Sistemas pelo Senac RJ, com mais de 2 anos de experiência no setor de TI e trajetória voltada para desenvolvimento Backend e Engenharia de Software.
 
-# :telescope: Sobre Mim:
-Desde novo, sou entusiasta de tecnologia, buscava notícias e revistas sobre avanços tecnológicos. Logo, percebi que esse era o meu propósito profissional. Desde então, tenho dedicado meus esforços à tornar-me um desenvolvedor back-end.  Sou graduado em Análise e Desenvolvimento de Sistemas pelo Senac RJ e conto com mais de 2 anos de experiência prática no setor de TI.
+Tenho experiência prática no desenvolvimento de soluções utilizando Java e Python, com foco em APIs REST, persistência de dados, integração entre sistemas, automação e processamento de dados. Em Java, venho desenvolvendo aplicações com Spring Boot, Spring Data JPA, Spring Security, JWT e MySQL, além de utilizar Docker para conteinerização e Git/GitHub para versionamento e colaboração.
 
-Estou sempre aberto a novas conexões, desafios e debates sobre arquitetura backend. Sinta-se à vontade para se conectar ou entrar em contato! (thalles.nascimentorj@gmail.com).
-<!-- - [Conhecimentos Adquiridos](#soft-skills)
-- [Estilo de Vida](#estilo-de-vida)
--->
-# :books: Competências:
-  - **Java & Python**: CRUD; Programação Orientada a Objeto; Fundamentos (Estruturas, tipos primitivos, funções e Estrutura de Dados); Spring Boot, Microsserviços, JPA/Hibernate, REST API;
-  - **MySQL**: Persistencia de Dados; Normalização, Relacionamentos (Modelo Relacional); Queries - Select, update, delete, create - Queries Complexas; Funções; Stored Procedure; Views; Controle de Acesso;
-  - **HTML e CSS, NodeJS, Angular, React, Typescript, Express**: Desenvolvimento Frontend; UI/UX; Designer de interfaces
-  - **Linux e Windows**
+Também possuo experiência acadêmica com mensageria utilizando RabbitMQ, explorando comunicação assíncrona entre aplicações por meio de produtores, consumidores e filas.
 
-# :construction_worker: Trabalho:
-Eu trabalhei na Clínica Susga Medicina Diagnóstica, como Estagiário e efetivado como Auxiliar de TI. Neste contexto, eu exercia funções voltadas a infraestrutura de TI, como Rotinas de Backup, configuração de servidor e redes, assistência aos colaboradores, clonar, formatar e montar discos, etc.
+Atualmente, estou aprofundando meus conhecimentos em Go (Golang) por meio da resolução de problemas e desenvolvimento prático. Tenho utilizado meu GitHub para documentar não apenas as soluções, mas também as decisões de implementação, alternativas consideradas, complexidade e trade-offs envolvidos em cada abordagem.
 
-# :computer: Experiências:
-  - **Sistemas Operacionais**: Utilizo Linux no meu computador pessoal e trabalhei com Windows como Auxiliar de TI.;
-  - **Python**: Realizar CRUD's em Python com MySQL; Programação Orientada a Objeto; Fundamentos (Estruturas, tipos primitivos, funções básicas e Estrutura de Dados); Pandas e ETL
-  - **Java**: Realizar CRUD's em Java com MySQL e Hibernate/JPA; Fundamentos (Estruturas, tipos primitivos, funções básicas e Estrutura de Dados); Microsserviços; Spring Boot; JUnit; REST API;
-  - **Backups e ShellScripts**: Realizar backups e comandos em Terminais; Comandos utilizados: chmod, chown, sudo, vi, vim, cat, touch, ping, if(p)config, etc;
+Meu objetivo é continuar evoluindo como profissional de Backend e Software Engineering, com interesse especial em Go, sistemas distribuídos, microsserviços, mensageria, concorrência e construção de sistemas escaláveis e resilientes.
 
-# :hammer: Ferramentas:
-<div>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height=100px width=100px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height=100px width=100px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=100px width=100px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height=100px width=100px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height=100px width=100px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=100px width=100px />
-
-</div>
-
- # :mailbox_with_mail: Contatos:
+Estou sempre buscando aprofundar conhecimentos e trocar experiências sobre desenvolvimento backend e engenharia de software.
+#
+# 🚀 Projetos
+- [ZenixApp](https://github.com/Thalles-Nascimento/zenix-app) - Sistema de gestão para barbearias, com fila de atendimento, controle financeiro e planos de assinatura (backend em Spring Boot e frontend em React).
+- [Categorizador de E-mail com IA](https://github.com/Thalles-Nascimento/categorizador-email) - Classifica e-mails automaticamente como "Produtivo" ou "Improdutivo" e sugere respostas, usando o modelo GPT-4o-mini da OpenAI.
+- [Exercícios em Golang](https://github.com/Thalles-Nascimento/golang-exercises) - Coleção de exercícios práticos para treinar sintaxe e conceitos fundamentais da linguagem Go.
+- [Pipeline ETL](https://github.com/Thalles-Nascimento/pipeline-etl) - Projeto de estudo sobre processos de ETL (Extract, Transform, Load).
+#
+# 📬 Contatos
 <div>
   <a href="https://www.linkedin.com/in/thallesnascimento/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:thalles.nascimentorj@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/othallesnascimento/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+#
+# 📚 Competências
+- **Linguagens**: Java, Python, Go (em desenvolvimento) e TypeScript.
+- **Backend**: Spring Boot, Spring Data JPA, Spring Security, Flask, APIs REST.
+- **Arquitetura e Mensageria**: Microsserviços, comunicação assíncrona e RabbitMQ.
+- **Banco de Dados**: MySQL, modelagem de dados e SQL.
+- **Ferramentas e Infraestrutura**: Docker, Git, GitHub e Jenkins.
+- **Outros interesses técnicos**: Sistemas distribuídos, concorrência, testes, observabilidade e performance.
