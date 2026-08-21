@@ -19,18 +19,17 @@ Estou sempre buscando aprofundar conhecimentos e trocar experiências sobre dese
 - [Exercícios em Golang](https://github.com/Thalles-Nascimento/golang-exercises) - Coleção de exercícios práticos para treinar sintaxe e conceitos fundamentais da linguagem Go.
 - [Pipeline ETL](https://github.com/Thalles-Nascimento/pipeline-etl) - Projeto de estudo sobre processos de ETL (Extract, Transform, Load).
 #
+# 📚 Competências
+- **Linguagens**: Java, Python, Go e TypeScript.
+- **Backend**: Spring Boot, Spring Data JPA, Spring Security, Flask, APIs REST.
+- **Arquitetura e Mensageria**: Microsserviços, comunicação assíncrona e RabbitMQ.
+- **Banco de Dados**: MySQL, modelagem de dados e SQL.
+- **Ferramentas e Infraestrutura**: Docker, Git, GitHub e Jenkins.
+- **Outros interesses técnicos**: Sistemas distribuídos, concorrência, testes, observabilidade e performance.
+#
 # 📬 Contatos
 <div>
   <a href="https://www.linkedin.com/in/thallesnascimento/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:thalles.nascimentorj@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/othallesnascimento/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-#
-# 📚 Competências
-- **Linguagens**: Java, Python, Go (em desenvolvimento) e TypeScript.
-- **Backend**: Spring Boot, Spring Data JPA, Spring Security, Flask, APIs REST.
-- **Arquitetura e Mensageria**: Microsserviços, comunicação assíncrona e RabbitMQ.
-- **Banco de Dados**: MySQL, modelagem de dados e SQL.
-- **Ferramentas e Infraestrutura**: Docker, Git, GitHub e Jenkins.
-- **Outros interesses técnicos**: Sistemas distribuídos, concorrência, testes, observabilidade e performance.
